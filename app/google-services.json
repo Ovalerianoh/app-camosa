@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885975981683",
+    "project_id": "aplicativo-camosa",
+    "storage_bucket": "aplicativo-camosa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885975981683:android:8d748b8ec15f76a9fd1406",
+        "android_client_info": {
+          "package_name": "com.example.aplicativocamosa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJbtASF_LDibkLMoa1jIgSh_0k3YeV6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
